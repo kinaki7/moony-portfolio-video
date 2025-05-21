@@ -22,6 +22,8 @@
 👉 [デモを開く（GitHub Pages）](https://kinaki7.github.io/unexu.github.io/)  
 （※ PC / スマートフォンで動作確認済）
 
+## スクリーンショット
+![ポートフォリオのスクリーンショット](./assets/screenshot.png)
 ---
 
 ## 🎨 使用技術
