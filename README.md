@@ -19,7 +19,7 @@
 
 ## 🔗 デモページ（GitHub Pages）
 
-👉 [デモを開く（GitHub Pages）](https://kinaki7.github.io/unexu.github.io/)  
+👉 [デモを開く（GitHub Pages）](https://github.com/kinaki7/moony-portfolio-video..git)  
 （※ PC / スマートフォンで動作確認済）
 
 ## スクリーンショット
