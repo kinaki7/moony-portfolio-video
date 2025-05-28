@@ -1,10 +1,8 @@
-
-```markdown
 # 🌕 Moony's Portfolio - Visual Web Showcase  
 🎥 このREADMEは **YouTube動画の埋め込みあり** バージョンです
 
-このポートフォリオは、**月の満ち欠けアニメーション**と**オリジナル映像作品の埋め込み表示**を融合させた、インタラクティブなWeb作品です。  
-音楽・映像・ビジュアルを統合し、「月の感情」をテーマに構成されています。
+このポートフォリオは、視覚と聴覚で表現するインタラクティブなWeb作品です。  
+映像制作者・ビジュアルアーティスト「Moony」による、月をテーマにした世界観を体験できます。
 
 ---
 
@@ -19,11 +17,16 @@
 
 ## 🔗 デモページ（GitHub Pages）
 
+実際にブラウザで作品を体験できます👇  
 👉 [デモを開く（GitHub Pages）](https://github.com/kinaki7/moony-portfolio-video)  
 （※ PC / スマートフォンで動作確認済）
 
-## スクリーンショット
+---
+
+## 📸 プレビュー画像
+
 ![ポートフォリオのスクリーンショット](./assets/screenshot.png)
+
 ---
 
 ## 🎨 使用技術
@@ -42,12 +45,11 @@
 ├── style.css
 ├── assets/
 │   └── screenshot.png  # プレビュー画像
-📸 プレビュー
-
 🎥 埋め込み動画例
 
 以下のように、YouTube動画がページ内に埋め込まれています。
 
+<details> <summary>📺 埋め込みコードを表示</summary>
 <iframe 
   src="https://www.youtube.com/embed/T5gBnCW_hEU" 
   title="AIシテヨ – exTENTION"
@@ -55,7 +57,8 @@
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-💡 特徴
+</details>
+💡 特徴まとめ
 
 🌘 CSSアニメーションと clip-path による月の演出
 🎬 YouTube映像を埋め込んでダイレクトに鑑賞可能
@@ -76,8 +79,6 @@ start index.html
 xdg-open index.html
 ⚖️ ライセンス
 
-©️ このプロジェクトの著作権は Moony（@kinaki7） に帰属します。
-画像・音楽・映像作品の 無断転載・無断使用を禁止 します。
-
+©️ 本プロジェクトの著作権は Moony（@kinaki7） に帰属します。
+画像・音楽・映像の 無断転載・無断使用は禁止 です。
 コード部分は MIT License に準拠しています。
-
