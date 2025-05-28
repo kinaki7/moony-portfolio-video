@@ -25,7 +25,8 @@
 
 ## 📸 プレビュー画像
 
-![ポートフォリオのスクリーンショット](./assets/screenshot.png)
+![スクリーンショット](https://raw.githubusercontent.com/kinaki7/moony-portfolio-video/main/assets/screenshot.png)
+
 
 ---
 
